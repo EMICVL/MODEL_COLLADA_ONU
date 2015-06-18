@@ -24,3 +24,6 @@ Index:
 Each folder contains files with the image models. 
 
 Folder "materials" contains the files for texturing models.
+
+-------------------------------------------------------------
+This work has been funded by the [EMICVL Tempus Project](http://sites.google.com/a/my.westminster.ac.uk/emicvl/home)
